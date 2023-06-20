@@ -1,0 +1,12 @@
+/* Write your code here. */
+
+.list-item {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.btn {
+  background-color: #ffffff;
+  border: none;
+  cursor: pointer;
+}

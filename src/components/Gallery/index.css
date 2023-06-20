@@ -1,0 +1,32 @@
+/* Write your code here. */
+
+.img-bg {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding-left: 50px;
+  padding-top: 30px;
+}
+
+.img {
+  width: 800px;
+  height: 400px;
+  margin-left: 10px;
+  margin-left: 50px;
+}
+
+.heading {
+  margin-top: 20px;
+  margin-left: 55px;
+}
+
+.author {
+  margin-left: 10px;
+  margin-left: 55px;
+}
+
+.thumb-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
